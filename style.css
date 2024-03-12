@@ -141,6 +141,16 @@ figcaption {
 
 .etude{margin: 5%;}
 
-
+table {
+	background-color:white;
+	
+	margin: 10%;
+	border:solid black;
+	width: 70%
+}
+ td {
+	border-bottom:solid black 0.1;
+	border-right: solid black 0.1em;
+}
 
 
